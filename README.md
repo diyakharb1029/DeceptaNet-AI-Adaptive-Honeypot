@@ -6,7 +6,7 @@ Unlike traditional static honeypots, DeceptaNet continuously adapts its response
 
 This project was developed as a Major Academic Project in Cyber Security & Forensics.
 
----
+
 
 ## Key Features
 
@@ -18,7 +18,7 @@ This project was developed as a Major Academic Project in Cyber Security & Foren
 - MITRE ATT&CK mapping and IOC extraction  
 - Secure, isolated environment using virtualization  
 
----
+
 
 ## System Architecture
 
@@ -26,7 +26,7 @@ This project was developed as a Major Academic Project in Cyber Security & Foren
 
 The system consists of an AI core that monitors attacker behavior, decides deception strategies, and dynamically modifies the honeypot environment to maximize intelligence gathering while remaining undetected.
 
----
+
 
 ## Technology Stack
 
@@ -55,7 +55,7 @@ The system consists of an AI core that monitors attacker behavior, decides decep
 - MITRE ATT&CK
 - MISP
 
----
+
 
 ## How It Works
 
@@ -67,7 +67,7 @@ The system consists of an AI core that monitors attacker behavior, decides decep
 6. Attacker actions are logged and mapped to known attack techniques  
 7. Actionable threat intelligence is generated for security analysis  
 
----
+
 
 ## Screenshots
 
@@ -75,7 +75,7 @@ The system consists of an AI core that monitors attacker behavior, decides decep
 ![Attack Logs](screenshots/attack_logs.png)
 ![RL Decision Graph](screenshots/rl_graph.png)
 
----
+
 
 ## Objectives
 
@@ -85,7 +85,7 @@ The system consists of an AI core that monitors attacker behavior, decides decep
 - Generate actionable cybersecurity intelligence  
 - Enhance detection of unknown and zero-day attacks  
 
----
+
 
 ## Future Scope
 
@@ -96,7 +96,7 @@ The system consists of an AI core that monitors attacker behavior, decides decep
 - Continuous learning without manual retraining  
 - Threat intelligence sharing across platforms  
 
----
+
 
 ## Project Documentation
 
@@ -104,13 +104,13 @@ Detailed documentation and presentation slides are available in the `docs/` dire
 - Major Project Report (PDF)
 - Project Presentation (PPT/PDF)
 
----
+
 
 ## Contributor
 
 - Diya Kharb  
 
----
+
 
 ## 📜 License
 
