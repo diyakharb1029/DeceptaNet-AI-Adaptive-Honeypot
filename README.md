@@ -98,20 +98,12 @@ The system consists of an AI core that monitors attacker behavior, decides decep
 
 
 
-## Project Documentation
-
-Detailed documentation and presentation slides are available in the `docs/` directory, including:
-- Major Project Report (PDF)
-- Project Presentation (PPT/PDF)
-
-
-
 ## Contributor
 
 - Diya Kharb  
 
 
 
-## 📜 License
+## License
 
 This project is licensed under the MIT License.
