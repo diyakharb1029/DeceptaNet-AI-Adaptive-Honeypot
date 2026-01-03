@@ -22,8 +22,6 @@ This project was developed as a Major Academic Project in Cyber Security & Foren
 
 ## System Architecture
 
-![System Architecture](architecture/system_architecture.png)
-
 The system consists of an AI core that monitors attacker behavior, decides deception strategies, and dynamically modifies the honeypot environment to maximize intelligence gathering while remaining undetected.
 
 
@@ -69,11 +67,35 @@ The system consists of an AI core that monitors attacker behavior, decides decep
 
 
 
-## Screenshots
+## System Demonstration
 
-![Dashboard](screenshots/dashboard.png)
-![Attack Logs](screenshots/attack_logs.png)
-![RL Decision Graph](screenshots/rl_graph.png)
+### Enterprise-Grade SOC Dashboard
+Real-time visualization of attack detection, AI classification, deception responses, and system health.
+
+![SOC Dashboard](screenshots/01_dashboard.png)
+
+---
+
+### MITRE ATT&CK Mapping
+Observed attacker behaviors are mapped to MITRE ATT&CK tactics to generate structured and actionable threat intelligence.
+
+![MITRE ATT&CK Heatmap](screenshots/02_mitre_attack.png)
+
+---
+
+### Reinforcement Learning for Adaptive Deception
+The Reinforcement Learning agent dynamically learns optimal deception strategies using Q-learning by assigning higher Q-values to effective responses.
+
+![Reinforcement Learning](screenshots/03_rl-learning.png)
+
+---
+
+### Real Attack Simulation
+Live attacker commands executed against the honeypot with corresponding adaptive deception and security responses.
+
+![Real Attack Simulation](screenshots/04_real-attack-simulation.png)
+
+Additional analytics, live logs, and deployment modes are available in the `screenshots/` directory.
 
 
 
