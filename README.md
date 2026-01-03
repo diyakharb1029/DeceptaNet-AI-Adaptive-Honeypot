@@ -120,9 +120,9 @@ Additional analytics, live logs, and deployment modes are available in the `scre
 
 
 
-## Contributor
+## Contributors
 
-- Diya Kharb  
+Made By Diya Kharb  
 
 
 
